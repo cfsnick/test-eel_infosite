@@ -1,0 +1,6 @@
+site_name: Science Hub
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Climate Science: climate.md
